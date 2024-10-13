@@ -1,4 +1,4 @@
-Heres minimal code example to use this timer:
+## Minimal code example to use this timer:
 
 ```cpp
 #include <MillisTimer.h>
