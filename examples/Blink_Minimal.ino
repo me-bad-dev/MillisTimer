@@ -1,5 +1,4 @@
 #include <MillisTimer.h>
-
 #define LED_PIN 2
 
 // Create a timer with interval in milliseconds
@@ -10,7 +9,6 @@ void setup() {
 }
 
 void loop() {
-
   // Check if timer expired and resets the timer
   timerLed.Expired(true) {
     // Reverse the leds digital output state
