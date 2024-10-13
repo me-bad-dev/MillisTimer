@@ -8,7 +8,7 @@
 MillisTimer timerLed(1000); 
 
 void setup() {
-  pinMode(LED_PIN,OUTPUT);
+  pinMode(LED_PIN, OUTPUT);
 }
 
 void loop() {
