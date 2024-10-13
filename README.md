@@ -1,4 +1,4 @@
-## Minimal code example to use this timer:
+## Minimal code example to use this timer to blink a LED
 
 ```cpp
 #include <MillisTimer.h>
