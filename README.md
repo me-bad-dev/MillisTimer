@@ -21,7 +21,7 @@ void loop() {
 ```
 
 ## Function documentation
-`Set` Change inverval of the timer<br />
+`Set` Change interval of the timer<br />
 `Reset` Resets the timer<br />
 `Expire` Expire the timer before the timer has elapsed<br />
 `Expired` Check it the timer has elapsed and optionally reset the timer<br />
