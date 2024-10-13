@@ -2,7 +2,7 @@
 
 #define LED_PIN 2
 
-// Create a timer and with interval in milliseconds
+// Create a timer with interval in milliseconds
 MillisTimer timerLed(1000); 
 
 void setup() {
