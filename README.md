@@ -12,9 +12,9 @@ void setup() {
 }
 
 void loop() {
-  // Check if timer expired and resets the timer
+  // Check if timer expired and reset the timer
   timerLed.Expired(true) {
-    // Reverse the leds digital pin output state
+    // Reverse led digital pin output state
     digitalWrite(LED_PIN, !digitalRead(LED_PIN));
   }
 }
